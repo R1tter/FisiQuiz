@@ -1,0 +1,13 @@
+Binaries/
+Intermediate/
+Saved/
+Content/StarterContent/
+Content/KiteDemo/
+.vs/
+
+*.sln
+*.sdf
+*.opensdf
+*.suo
+*.db
+*.opendb
