@@ -3,6 +3,9 @@
 #include "Interaction.h"
 #include "PaperSpriteComponent.h"
 #include "Camera/CameraComponent.h"
+#include "FileHelper.h"
+#include "Engine/World.h"
+#include "Runtime/Engine/Public/TimerManager.h"
 
 
 // Sets default values
@@ -21,14 +24,21 @@ AInteraction::AInteraction()
 
 	AutoPossessPlayer = EAutoReceiveInput::Player0;
 
+	TextAdress = "C:/Users/Marcelo/Documents/Unreal Projects/FisiQuiz/PerguntasERespostas.txt";
+	ReadText();
 }
+
 
 // Called when the game starts or when spawned
 void AInteraction::BeginPlay()
 {
 	Super::BeginPlay();
+	GetWorldTimerManager().SetTimer(AnswerTime, this,
+		&AInteraction::Tempo, 90.0f, false);
+
 	
 }
+
 
 // Called every frame
 void AInteraction::Tick(float DeltaTime)
@@ -47,5 +57,36 @@ void AInteraction::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 void AInteraction::OnTouchBegin(ETouchIndex::Type Type, UPrimitiveComponent * TouchedComponent)
 {
 	UE_LOG(LogTemp, Warning, TEXT("Touch"));
+}
+//Como fazer para verificar se o endereço do  arquivo é válido???
+
+void AInteraction::ReadText()
+//Metodo lê mas não separa o texto, como fazer??
+{
+	FString TextToRead;
+	FFileHelper::LoadFileToString(TextToRead, *TextAdress);
+	TArray<FString> Lines;
+	int32 lineCount = TextToRead.ParseIntoArray(Lines, _T("\n"), true);
+    FString Write =	ConvertText(Lines);
+	UE_LOG(LogTemp, Warning,TEXT("MyText: %s"),*Write);
+}
+
+void AInteraction::Tempo()
+{
+	UE_LOG(LogTemp, Warning, TEXT("TimeIsOver"));
+}
+
+FString AInteraction::ConvertText(TArray<FString> Lines)
+{
+	FString FinalText = FString("");
+	for (int i = 0; i < Lines.Num(); i++) {
+		//Append text
+		FinalText.Append(Lines[i]);
+		if (i < Lines.Num() - 1) {
+			//Append \n
+			FinalText.Append("\n");
+		}
+	}
+	return FinalText;
 }
 

@@ -27,7 +27,13 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 private:
-	FString* GameText;
+	FString GameText;
+
+	FString TextAdress;
+
+	FString ConvertText(TArray<FString> Lines);
+
+	FTimerHandle AnswerTime;
 
 	UFUNCTION()
 		void OnTouchBegin(ETouchIndex::Type Type, UPrimitiveComponent* TouchedComponent);
@@ -37,4 +43,9 @@ private:
 
 	UPROPERTY(EditAnywhere)
 		class UCameraComponent* Camera;
+
+	void ReadText();
+	void Tempo();
+	
+	
 };

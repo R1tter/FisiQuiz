@@ -1,0 +1,173 @@
+@Quando uma bola é lançada para cima, quais forças estão atuando sobre ela enquanto sobe?@
+@Força Velocidade@
+@Força Gravitacional@
+@Força de Lançamento da bola@
+@Força Gravitacional e Força de Lançamento@
+@João está andando de bicicleta quando percebe um cachorro a sua frente. Ao desviar do animal João perde o controle de sua bicicleta e cai no chão. Quem aplicou mais força em quem?@
+@O chão aplicou mais força em João.
+@João aplicou mais força no chão pois ele tinha uma velocidade enquanto o chão está parado.
+@Os dois aplicaram, entre si, o mesmo módulo de força.
+@O que é convecção?
+@É a forma de transferência de calor comum para os gases e líquidos.
+@É uma transferência de calor comum somente para os sólidos.
+@É a transferência de calor de um meio para outro através do contato.
+@Quantas leis foram formuladas pelo astrônomo e matemático Johannes Kepler que contradisseram a idéia geocêntrica vigente na época?
+@Uma
+@Duas
+@Três
+@Quatro
+@Cinco
+@Ainda que a Terra e o Sol estejam a uma distância de 1,496109m, é incontestável a influência de determinada interação entre os dois corpos devido a uma propriedade física específica. Assinale abaixo a interação e a propriedade, respectivamente.
+@Força eletromagnética e Campo Magnético
+@Força gravitacional e Temperatura
+@Torque e Velocidade Tangencial
+@Força gravitacional e Massa
+@A aceleração da gravidade varia a medida que se altera a:
+@Temperatura
+@Atmosfera
+@Relevo
+@Altura
+@Por que o freezer horizontal de supermercado não precisa de tampa?
+@Porque a energia elétrica está sendo constantemente sendo transformada em energia térmica fria.
+@O mercado tem um sistema que isola a temperatura do freezer, não necessitando de tampa. 
+@Como o ar frio é mais pesado que o ar quente, o primeiro permanece na área inferior do freezer enquanto o ar quente sobe para a área superior do freezer.  
+@Qual o nome do físico que descobriu como calcular o empuxo?
+@Isaac Newton
+@Arquimedes
+@Johannes Kepler
+@Aristóteles
+@Qual configuração Newton estava analisando quando formulou a lei da gravitação universal?
+@Terra e Lua
+@Vênus e Sol
+@Júpiter e Europa
+@Sol e Terra
+@Qual das explicações abaixo é a mais adequada para a sensação de leveza quando entramos na piscina? 
+@Como a densidade da água é similar ao do corpo humano, sentimos essa sensação de leveza.
+@A impressão de leveza acontece devido a uma força vertical exercida para cima, contra o peso do corpo humano, chamada de empuxo.
+@Como a água é rica em minerais, os mesmos aumentam a densidade da piscina, impedindo a completa imersão.
+@Qual princípio físico está envolvido na explicação do freezer ser na horizontal? 
+@Convecção do calor
+@Quantidade de calor
+@Energia elétrica
+@Energia Potencial
+@Das três formas de transferência de calor existentes, qual delas pode se propagar no vácuo?
+@Condução
+@Convecção
+@Radiação
+@Pedrinho está andando de bicicleta e se depara com um morro que possui uma inclinação considerável. Por sorte, em sua bicicleta tem um conjunto de polias dentadas que constitui sua marcha. Considerando que o raio da polia da frente é 2w, quanto que deverá ser o raio da polia traseira para que pedrinho consiga subir o morro sem muita dificuldade? 
+@w
+@2w
+@3w
+@4w
+@Por que utilizamos uma polia de raio menor na roda traseira ao invés de uma maior ao subirmos um morro de bicicleta?
+@Pois a velocidade linear da polia menor é menor do que da polia de raio maior.
+@Pois a frequência da polia menor é menor do que da polia de raio maior.
+@Pois a velocidade angular da polia menor é menor do que da polia de raio menor.
+@Pois a frequência da polia menor é maior do que a polia de raio maior.
+@Países que possuem grandes investimentos em enviar foguetes para o espaço preferem realizar seus lançamentos em regiões próximas do equador. Marque a alternativa abaixo que explica o porquê
+dos lançamentos ocorrerem em tais locais: 
+@A gravidade nesta região é mais fraca facilitando, portanto, o lançamento. 
+@A velocidade angular próxima do equador é grande o suficiente para colaborar com o lançamento. 
+@Os lançamentos ocorrem em regiões próximas do equador visto que a velocidade linear de rotação da Terra é maior.
+@A velocidade angular próxima do equador é menor, auxiliando o lançamento.
+@Ao andar em linha reta na bicicleta, em que configuração de marcha aplicar-se-á a menor força possível ao realizar o movimento de pedalar:
+@Quando a polia traseira for a menor possível.
+@Quando a polia dianteira for a menor possível.
+@Quando a polia traseira for a maior possível.
+@Quando o tamanho da polia dianteira for igual a da traseira.
+@Segundo Newton, a força gravitacional é proporcional a massa dos corpos em interação. Considerando as massas dos seguintes planetas: Júpiter- 1,8981027Kg, Terra - 5,9721024Kg, Saturno - 5,6831026Kg, e Netuno - 1,0241026Kg, qual teria a maior gravidade?
+@Júpiter
+@Netuno
+@Saturno
+@Terra
+@O famoso físico Albert Eisntein é reconhecido por vários trabalhados, porém um deles o forneceu o Prêmio Nobel. Qual? 
+@Teoria do Campo Unificado
+@Teoria da Relatividade
+@Teoria da opalescência crítica
+@Efeito fotoelétrico
+
+@A experiência do fotoelétrico foi comprovado, mesmo a contragosto, por um físico experimental estadunidense que ganhou o Prêmio Nobel por este feito. Quem foi?
+@Robert Andrews Millikan
+@Albert Einstein
+@Heinrich Hertz
+@Max Planck
+@Sobre o efeito fotoelétrico, assinale a alternativa correta. 
+@A energia cinética adquirida pelo elétron depende da intensidade do feixe de luz.
+@O efeito fotoelétrico ocorre para todas as frequências.
+@A energia cinética com que o elétron é ejetado depende da frequência da luz incidente. 
+@Para uma luz suficientemente fraca, nota-se um retardo detectável devido ao tempo com que o elétron demora para absorver a energia do feixe. 
+@Como Einstein supôs na teoria da relatividade, se a velocidade da luz é constante e tem um limite máximo, quais outros parâmetros precisam ser alterados?
+@Temperatura e distância
+@Tempo e distância
+@Velocidade e comprimento
+@Aceleração e força
+@Mesmo que no cotidiano temperatura e calor caiam no senso comum e sejam expressadas como sinônimos, há diferenças cruciais que a distinguem. Assinale a alternativa que melhor explique esses dois fenômenos:
+@Temperatura é o grau de agitação das moléculas enquanto o calor é a energia em movimento de um corpo quente para um frio, respectivamente.
+@Temperatura é a energia transferida entre dois corpos com temperaturas diferentes enquanto o calor é uma energia interna presente no corpo e associada a temperatura.
+@Calor é uma quantidade de energia presente no corpo, enquanto a temperatura é o grau de agitação das moléculas. 
+@Calor é o quão agitada está as moléculas enquanto a temperatura mede a energia de rotação das moléculas.
+
+
+
+
+
+
+@Em muitas situações do cotidiano é usado as definições de teoria e hipótese como se fossem sinônimos, mesmo que não sejam. Assinale a alternativa abaixo que explique corretamente, conceitualmente na ciência, as duas palavras:
+@A hipótese é uma suposição a um determinado fenômeno físico sem comprovações teóricas. A teoria surge de uma hipótese que foi testadas inúmeras vezes e, consequentemente, muito bem comprovada.
+@A hipótese pode explicar determinado fenômeno assim como a teoria.
+@A hipótese é um pressuposto de um fenômeno físico que não precisa de experiência para ser comprovada visto que é completa. Já a teoria, precisa ser comprovada várias vezes uma vez que é apenas uma teoria.
+@Teoria e hipótese não têm como serem comprovadas, a “Lei” é que pode explicar com precisão os fenômenos. 
+@Quando um feixe de luz branca incide sobre um prisma, um fenômeno muito conhecido acontece:
+@Como a luz branca é formada por várias cores, as mesmas aparecem do outro lado do prisma.
+@Somente os raios de luz com frequência mais alta serão transmitidos o prisma. 
+@Somente os raios de luz com frequência mais baixa serão transmitidos pelo prisma.
+@A luz branca não consegue atravessar o prisma.
+@Quando Einstein estruturou a teoria da relatividade, uma experiência muito importante foi realizada durante o eclipse. Onde foi realizada essa observação?
+@Sobral, no ceará.
+@Em todo Egito.
+@Boston, USA
+@Sidney, Austrália
+@Qual foi a previsão teórica da teoria da relatividade de Einstein? 
+@Os raios luminosos das estrelas que se encontravam próximos do Sol deviam desviar-se ligeiramente devido ao campo gravitacional do corpo celeste. 
+@Os raios luminosos das estrelas deveriam chegar ao sol e se absorvido pelo próprio devido sua forte gravidade.
+@De que eventos simultâneos em um mesmo referencial permanecem simultâneos em referenciais diferentes.
+@De que ondas gravitacionais são inconsistentes com a teoria por ele proposta.
+@Assinale a seguir o nome do cientista e, respectivamente, sua experiência que comprova a presença de um núcleo e uma eletrosfera “vazia”:
+@Ernest Rutherford, experimento de Geiger–Marsden.
+@Niels Bohr, modelo atômico sistema planetário.
+@John Dalton, bola de bilhar.
+@Joseph John Thomson, tubos de raios catódicos.
+
+@Por que as folhas são verdes?
+@Devido a clorofila, um pigmento natural capaz de absorver todos os comprimentos de onda e emitir a cor verde.
+@Devido aos minerais que emitem a cor esverdeada.
+@Devido a radiação proveniente do Sol.
+@Devido a estrutura celular das folhas. 
+@Por que o céu é azul? 
+@Graças a dispersão da luz branca na atmosfera. 
+@Devido a luz monocromática emitida pelo Sol.
+@Porque o mar é azul, com isso o céu reflete o mar.
+@Por causa das moléculas presentes na atmosfera. 
+@Por que o pôr do Sol é amarelo/alaranjado? 
+@Como a luz branca do Sol precisa percorrer um caminho maior até chegar aos nossos olhos, grande parte da luz azul já foi dispersada, restando a luz próxima da coloração amarelo/alaranjado.
+@Graças às moléculas presentes na atmosfera, percebe-se uma coloração avermelhada do céu no entardecer.
+@Visto que o Sol é dessa mesma coloração, percebesse melhor tal semelhança no pôr do Sol quando o mesmo se afasta do nosso campo de visão.
+
+@Qual é o argumento físico que explica o as miragens? 
+@Refração
+@Radiação
+@Conservação da energia óptica
+@Atrito
+@Por que enxergamos? 
+@Conseguimos enxergar porque os objetos emitem ou refletem a luz, está que chega aos nossos olhos e que é processado pelo cérebro. 
+@O sentido da visão é possível visto que nossos olhos conseguem captar a luz de corpos que absorvem todo o espectro de luz.
+@Porque o olho humano emite luz e toda a luz que retorna é processada pelo cérebro, como um radar.
+@Somente com os nossos olhos, o cérebro não tem função alguma no sentido da visão. 
+@Quais das situações abaixo não é possível observar o fenômeno de miragem? 
+@Na rodovia em um dia calor de intenso.
+@Ao observar um objeto a longas distâncias no deserto.
+@Em navios ou objetos distantes nas regiões polares ou com água muito fria
+@Um carro descendo uma rampa. 
+
+
+ 
