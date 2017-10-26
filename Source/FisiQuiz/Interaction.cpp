@@ -2,6 +2,7 @@
 
 #include "Interaction.h"
 #include "PaperSpriteComponent.h"
+#include "Camera/CameraComponent.h"
 
 
 // Sets default values
@@ -12,6 +13,13 @@ AInteraction::AInteraction()
 	TestSprite = CreateDefaultSubobject<UPaperSpriteComponent>(TEXT("Sprite"));
 	TestSprite->OnInputTouchBegin.AddDynamic(this, &AInteraction::OnTouchBegin);
 	RootComponent = TestSprite;
+
+	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
+	Camera->ProjectionMode = ECameraProjectionMode::Orthographic;
+	Camera->OrthoWidth = 2048.0f;
+	Camera->SetupAttachment(RootComponent);
+
+	AutoPossessPlayer = EAutoReceiveInput::Player0;
 
 }
 

@@ -34,5 +34,7 @@ private:
 
 	UPROPERTY(EditAnywhere)
 		class UPaperSpriteComponent* TestSprite;
-	
+
+	UPROPERTY(EditAnywhere)
+		class UCameraComponent* Camera;
 };
