@@ -68,7 +68,34 @@ void AInteraction::ReadText()
 	TArray<FString> Lines;
 	int32 lineCount = TextToRead.ParseIntoArray(Lines, _T("\n"), true);
     FString Write =	ConvertText(Lines);
-	UE_LOG(LogTemp, Warning,TEXT("MyText: %s"),*Write);
+
+	//UE_LOG(LogTemp, Warning,TEXT("MyText: %s"),*Write);
+
+	Write.ParseIntoArray(MainArray, TEXT("%"), true);
+
+	int jorge = FMath::RandRange(0, MainArray.Num() - 1);
+
+	TArray<FString> PerguntaAtual;
+	TArray<FString> Respostas;
+	for (int i = 1; i < PerguntaAtual.Num(); i++) {
+		Respostas.Add(PerguntaAtual[i]);
+	}
+
+
+	MainArray[jorge].ParseIntoArray(PerguntaAtual, TEXT("@"), true);
+
+	for (int i = 0; i < PerguntaAtual.Num(); i++)
+	{
+		if (i == 0) {
+			UE_LOG(LogTemp, Warning, TEXT("PERGUNTA %d:  %s"), jorge, *PerguntaAtual[i]);
+		}
+		else {
+			UE_LOG(LogTemp, Warning, TEXT("RESPOSTA %d: %s"),i, *PerguntaAtual[i]);
+		}
+		
+	}
+	/*UE_LOG(LogTemp, Warning, TEXT("%d perguntas"), MainArray.Num());
+	UE_LOG(LogTemp, Warning, TEXT("%da Pergunta: %s"),jorge, *MainArray[jorge]);*/
 }
 
 void AInteraction::Tempo()

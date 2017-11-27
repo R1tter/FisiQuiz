@@ -27,6 +27,8 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 private:
+	TArray<FString> MainArray;
+
 	FString GameText;
 
 	FString TextAdress;
