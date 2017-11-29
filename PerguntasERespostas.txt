@@ -1,161 +1,346 @@
-Quando uma bola � lan�ada para cima, quais for�as est�o atuando sobre ela enquanto sobe?
-@For�a Velocidade
-@For�a Gravitacional
-@For�a de Lan�amento da bola
-@For�a Gravitacional e For�a de Lan�amento
-%Jo�o est� andando de bicicleta quando percebe um cachorro a sua frente. Ao desviar do animal Jo�o perde o controle de sua bicicleta e cai no ch�o. Quem aplicou mais for�a em quem?@
-@O ch�o aplicou mais for�a em Jo�o.
-@Jo�o aplicou mais for�a no ch�o pois ele tinha uma velocidade enquanto o ch�o est� parado.
-@Os dois aplicaram, entre si, o mesmo m�dulo de for�a.
-%O que � convec��o?
-@� a forma de transfer�ncia de calor comum para os gases e l�quidos.
-@� uma transfer�ncia de calor comum somente para os s�lidos.
-@� a transfer�ncia de calor de um meio para outro atrav�s do contato.
-%Quantas leis foram formuladas pelo astr�nomo e matem�tico Johannes Kepler que contradisseram a id�ia geoc�ntrica vigente na �poca?
-@Uma
-@Duas
-@Tr�s
-@Quatro
+﻿Quando uma bola é lançada para cima, quais forças estão atuando sobre ela enquanto sobe? 
+@Força Gravitacional
+@Força Velocidade
+@Força de Lançamento da bola
+@Força Gravitacional e Força de Lançamento
+%Assinale a alternativa correta
+@A Mecânica é o estudo do movimento das partículas e fluidos que pode ser dividido em Cinemática, Dinâmica e Estática.
+@A Dinâmica é o estudo que descreve corpos em movimento, sem se preocupar com as suas causas.
+@A Cinemática é o estudo do movimento questionando-se a causa do mesmo.
+@A Estática é o estudo dos corpos em movimento.
+%João está andando de bicicleta quando percebe um cachorro a sua frente. Ao desviar do animal João perde o controle de sua bicicleta e cai no chão. Quem aplicou mais força em quem? 
+@Os dois aplicaram, entre si, o mesmo módulo de força.
+@O chão aplicou mais força em João.
+@João aplicou mais força no chão pois ele tinha uma velocidade enquanto o chão está parado.
+@Os dois não aplicaram força entre si.
+%O que é convecção?
+@É a forma de transferência de calor comum para os gases e líquidos. 
+@É uma transferência de calor comum somente para os sólidos.
+@É a transferência de calor de um meio para outro através do contato.
+@É uma forma de calor que ocorre somente no vácuo. 
+%Quantas leis foram formuladas pelo astrônomo e matemático Johannes Kepler que contradisseram a idéia geocêntrica vigente na época?
+@Três
 @Cinco
-%Ainda que a Terra e o Sol estejam a uma dist�ncia de 1,496109m, � incontest�vel a influ�ncia de determinada intera��o entre os dois corpos devido a uma propriedade f�sica espec�fica. Assinale abaixo a intera��o e a propriedade, respectivamente.
-@For�a eletromagn�tica e Campo Magn�tico
-@For�a gravitacional e Temperatura
+@Uma
+@Quatro
+%Ainda que a Terra e o Sol estejam a uma distância de 1,496109mum do outro, é incontestável a influência de determinada interação entre os dois corpos devido a uma propriedade física específica. Assinale abaixo a interação e a propriedade, respectivamente.
+@Força gravitacional e Massa
+@Força gravitacional e Temperatura
 @Torque e Velocidade Tangencial
-@For�a gravitacional e Massa
-%A acelera��o da gravidade varia a medida que se altera a:
-@Temperatura
-@Atmosfera
-@Relevo
+@Força eletromagnética e Campo Magnético
+%A aceleração da gravidade varia à medida que se altera a:
 @Altura
-%Por que o freezer horizontal de supermercado n�o precisa de tampa?
-@Porque a energia el�trica est� sendo constantemente sendo transformada em energia t�rmica fria.
-@O mercado tem um sistema que isola a temperatura do freezer, n�o necessitando de tampa. 
-@Como o ar frio � mais pesado que o ar quente, o primeiro permanece na �rea inferior do freezer enquanto o ar quente sobe para a �rea superior do freezer.
-%Qual o nome do f�sico que descobriu como calcular o empuxo?
-@Isaac Newton
+@Atmosfera
+@Calor
+@Temperatura
+%Por que o freezer horizontal de supermercado não precisa de tampa? 
+@Como o ar frio é mais pesado que o ar quente, o primeiro permanece na área inferior do freezer enquanto o ar quente sobe para a área superior do freezer. 
+@Porque a energia elétrica está constantemente sendo transformada em energia térmica fria.
+@O mercado tem um sistema que isola a temperatura do freezer, não necessitando de tampa.
+@Para facilitar o uso para os clientes.
+%Qual o nome do físico que descobriu como calcular o empuxo?
 @Arquimedes
+@Isaac Newton
 @Johannes Kepler
-@Arist�teles
-%Qual configura��o Newton estava analisando quando formulou a lei da gravita��o universal?
+@Aristóteles
+%Qual configuração Newton estava analisando quando formulou a lei da gravitação universal?
 @Terra e Lua
-@V�nus e Sol
-@J�piter e Europa
+@Vênus e Sol
+@Júpiter e Europa
 @Sol e Terra
-%Qual das explica��es abaixo � a mais adequada para a sensa��o de leveza quando entramos na piscina? 
-@Como a densidade da �gua � similar ao do corpo humano, sentimos essa sensa��o de leveza.
-@A impress�o de leveza acontece devido a uma for�a vertical exercida para cima, contra o peso do corpo humano, chamada de empuxo.
-@Como a �gua � rica em minerais, os mesmos aumentam a densidade da piscina, impedindo a completa imers�o.
-%Qual princ�pio f�sico est� envolvido na explica��o do freezer ser na horizontal? 
-@Convec��o do calor
+%Qual das explicações abaixo é a mais adequada para a sensação de leveza quando entramos na piscina? 
+@A impressão de leveza acontece devido a uma força vertical exercida para cima, contra o peso do corpo humano, chamada de empuxo.
+@Como a densidade da água é similar ao do corpo humano, sentimos essa sensação de leveza.
+@Como a água é rica em minerais, os mesmos aumentam a densidade da piscina, impedindo a completa imersão.
+@Visto que a água é menos densa que o corpo humano, sentimos essa sensação de beleza. 
+%Qual princípio físico está envolvido na explicação do freezer ser na horizontal? 
+@Convecção do calor
 @Quantidade de calor
-@Energia el�trica
+@Energia elétrica
 @Energia Potencial
-%Das tr�s formas de transfer�ncia de calor existentes, qual delas pode se propagar no v�cuo?
-@Condu��o
-@Convec��o
-@Radia��o
-%Pedrinho est� andando de bicicleta e se depara com um morro que possui uma inclina��o consider�vel. Por sorte, em sua bicicleta tem um conjunto de polias dentadas que constitui sua marcha. Considerando que o raio da polia da frente � 2w, quanto que dever� ser o raio da polia traseira para que pedrinho consiga subir o morro sem muita dificuldade? 
+%Das três formas de transferência de calor existentes, qual delas pode se propagar no vácuo?
+@Radiação
+@Convecção
+@Condução
+@Temperatura
+%Pedrinho está andando de bicicleta e se depara com um morro que possui uma inclinação considerável. Por sorte, em sua bicicleta tem um conjunto de polias dentadas que constitui sua marcha. Considerando que o raio da polia da frente é 2w, quanto que deverá ser o raio da polia traseira para que pedrinho consiga subir o morro sem muita dificuldade? 
 @w
 @2w
 @3w
 @4w
-%Por que utilizamos uma polia de raio menor na roda traseira ao inv�s de uma maior ao subirmos um morro de bicicleta?
-@Pois a velocidade linear da polia menor � menor do que da polia de raio maior.
-@Pois a frequ�ncia da polia menor � menor do que da polia de raio maior.
-@Pois a velocidade angular da polia menor � menor do que da polia de raio menor.
-@Pois a frequ�ncia da polia menor � maior do que a polia de raio maior.
-%Pa�ses que possuem grandes investimentos em enviar foguetes para o espa�o preferem realizar seus lan�amentos em regi�es pr�ximas do equador. Marque a alternativa abaixo que explica o porqu�
-dos lan�amentos ocorrerem em tais locais: 
-@A gravidade nesta regi�o � mais fraca facilitando, portanto, o lan�amento. 
-@A velocidade angular pr�xima do equador � grande o suficiente para colaborar com o lan�amento. 
-@Os lan�amentos ocorrem em regi�es pr�ximas do equador visto que a velocidade linear de rota��o da Terra � maior.
-@A velocidade angular pr�xima do equador � menor, auxiliando o lan�amento.
-%Ao andar em linha reta na bicicleta, em que configura��o de marcha aplicar-se-� a menor for�a poss�vel ao realizar o movimento de pedalar:
-@Quando a polia traseira for a menor poss�vel.
-@Quando a polia dianteira for a menor poss�vel.
-@Quando a polia traseira for a maior poss�vel.
+%Por que utilizamos uma polia de raio menor na roda traseira ao invés de uma maior ao subirmos um morro de bicicleta?
+@Pois a velocidade linear da polia menor é menor do que da polia de raio maior.
+@Pois a frequência da polia menor é menor do que da polia de raio maior.
+@Pois a velocidade angular da polia menor é menor do que da polia de raio menor.
+@Pois a frequência da polia menor é maior do que a polia de raio maior.
+%Países que possuem grandes investimentos em enviar foguetes para o espaço preferem realizar seus lançamentos em regiões próximas do equador. Marque a alternativa abaixo que explica o porquê dos lançamentos ocorrerem em tais locais: 
+@A velocidade angular próxima do equador é grande o suficiente para colaborar com o lançamento. 
+@A velocidade angular próxima do equador é menor, auxiliando o lançamento.
+@Os lançamentos ocorrem em regiões próximas do equador visto que a velocidade linear de rotação da Terra é maior.
+@A gravidade nesta região é mais fraca facilitando, portanto, o lançamento. 
+%Ao subir um morro na bicicleta, em que configuração de marcha aplicar-se-á a menor força possível ao realizar o movimento de pedalar:
+@Quando a polia dianteira for a menor possível.
+@Quando a polia traseira for a menor possível.
+@Quando a polia dianteira for a maior possível.
 @Quando o tamanho da polia dianteira for igual a da traseira.
-%Segundo Newton, a for�a gravitacional � proporcional a massa dos corpos em intera��o. Considerando as massas dos seguintes planetas: J�piter- 1,8981027Kg, Terra - 5,9721024Kg, Saturno - 5,6831026Kg, e Netuno - 1,0241026Kg, qual teria a maior gravidade?
-@J�piter
+%Segundo Newton, a força gravitacional é proporcional ao produto das massas dos corpos em interação. Considerando as massas dos seguintes planetas: Júpiter- 1,8981027Kg, Terra - 5,9721024Kg, Saturno - 5,6831026Kg, e Netuno - 1,0241026Kg, qual teria a maior gravidade?parece questão de prova e não um quiz. 
+@Júpiter
 @Netuno
 @Saturno
 @Terra
-%O famoso f�sico Albert Eisntein � reconhecido por v�rios trabalhados, por�m um deles o forneceu o Pr�mio Nobel. Qual? 
-@Teoria do Campo Unificado
+%O famoso físico Albert Einstein é reconhecido por vários trabalhados, porém um deles o forneceu o Prêmio Nobel. Qual? 
+@Efeito fotoelétrico 
 @Teoria da Relatividade
-@Teoria da opalesc�ncia cr�tica
-@Efeito fotoel�trico
-%A experi�ncia do fotoel�trico foi comprovado, mesmo a contragosto, por um f�sico experimental estadunidense que ganhou o Pr�mio Nobel por este feito. Quem foi?
+@Teoria da opalescência crítica
+@Teoria do Campo Unificado
+%A experiência do fotoelétrico foi comprovado, mesmo a contragosto, por um físico experimental estadunidense que ganhou o Prêmio Nobel por este feito. Quem foi?
 @Robert Andrews Millikan
 @Albert Einstein
 @Heinrich Hertz
 @Max Planck
-%Sobre o efeito fotoel�trico, assinale a alternativa correta. 
-@A energia cin�tica adquirida pelo el�tron depende da intensidade do feixe de luz.
-@O efeito fotoel�trico ocorre para todas as frequ�ncias.
-@A energia cin�tica com que o el�tron � ejetado depende da frequ�ncia da luz incidente. 
-@Para uma luz suficientemente fraca, nota-se um retardo detect�vel devido ao tempo com que o el�tron demora para absorver a energia do feixe.
-%Como Einstein sup�s na teoria da relatividade, se a velocidade da luz � constante e tem um limite m�ximo, quais outros par�metros precisam ser alterados?
-@Temperatura e dist�ncia
-@Tempo e dist�ncia
+%Sobre o efeito fotoelétrico, assinale a alternativa correta. 
+@A energia cinética com que o elétron é ejetado depende da frequência da luz incidente.
+@O efeito fotoelétrico ocorre para todas as frequências.
+@A energia cinética adquirida pelo elétron depende da intensidade do feixe de luz.
+@Para uma luz suficientemente fraca, nota-se um retardo detectável devido ao tempo com que o elétron demora para absorver a energia do feixe. 
+%Como Einstein supôs na teoria da relatividade, se a velocidade da luz é constante e tem um limite máximo, quais outros parâmetros precisam ser alterados?
+@Tempo e distância
+@Temperatura e distância
 @Velocidade e comprimento
-@Acelera��o e for�a
-%Mesmo que no cotidiano temperatura e calor caiam no senso comum e sejam expressadas como sin�nimos, h� diferen�as cruciais que a distinguem. Assinale a alternativa que melhor explique esses dois fen�menos:
-@Temperatura � o grau de agita��o das mol�culas enquanto o calor � a energia em movimento de um corpo quente para um frio, respectivamente.
-@Temperatura � a energia transferida entre dois corpos com temperaturas diferentes enquanto o calor � uma energia interna presente no corpo e associada a temperatura.
-@Calor � uma quantidade de energia presente no corpo, enquanto a temperatura � o grau de agita��o das mol�culas. 
-@Calor � o qu�o agitada est� as mol�culas enquanto a temperatura mede a energia de rota��o das mol�culas.
-%Em muitas situa��es do cotidiano � usado as defini��es de teoria e hip�tese como se fossem sin�nimos, mesmo que n�o sejam. Assinale a alternativa abaixo que explique corretamente, conceitualmente na ci�ncia, as duas palavras:
-@A hip�tese � uma suposi��o a um determinado fen�meno f�sico sem comprova��es te�ricas. A teoria surge de uma hip�tese que foi testadas in�meras vezes e, consequentemente, muito bem comprovada.
-@A hip�tese pode explicar determinado fen�meno assim como a teoria.
-@A hip�tese � um pressuposto de um fen�meno f�sico que n�o precisa de experi�ncia para ser comprovada visto que � completa. J� a teoria, precisa ser comprovada v�rias vezes uma vez que � apenas uma teoria.
-@Teoria e hip�tese n�o t�m como serem comprovadas, a �Lei� � que pode explicar com precis�o os fen�menos.
-%Quando um feixe de luz branca incide sobre um prisma, um fen�meno muito conhecido acontece:
-@Como a luz branca � formada por v�rias cores, as mesmas aparecem do outro lado do prisma.
-@Somente os raios de luz com frequ�ncia mais alta ser�o transmitidos o prisma. 
-@Somente os raios de luz com frequ�ncia mais baixa ser�o transmitidos pelo prisma.
-@A luz branca n�o consegue atravessar o prisma.
-%Quando Einstein estruturou a teoria da relatividade, uma experi�ncia muito importante foi realizada durante o eclipse. Onde foi realizada essa observa��o?
-@Sobral, no cear�.
+@Aceleração e força
+%Mesmo que no cotidiano temperatura e calor caiam no senso comum e sejam expressadas como sinônimos, há diferenças cruciais que a distinguem. Assinale a alternativa que melhor explique esses dois fenômenos:
+@Temperatura é o grau de agitação das moléculas enquanto o calor é a energia em movimento de um corpo quente para um frio, respectivamente.
+@Temperatura é a energia transferida entre dois corpos com temperaturas diferentes enquanto o calor é uma energia interna presente no corpo e associada a temperatura.
+@Calor é uma quantidade de energia presente no corpo, enquanto a temperatura é o grau de agitação das moléculas. 
+@Calor é o quão agitada está as moléculas enquanto a temperatura mede a energia de rotação das moléculas.
+%Em muitas situações do cotidiano são usadas as definições de teoria e hipótese como se fossem sinônimos, mesmo que não sejam. Assinale a alternativa abaixo que explique corretamente, conceitualmente na ciência, as duas palavras:
+@A hipótese é uma suposição a um determinado fenômeno físico sem comprovações teóricas. A teoria surge de uma hipótese que foi testadas inúmeras vezes e, consequentemente, muito bem comprovada.
+@A hipótese pode explicar determinado fenômeno assim como a teoria.
+@A hipótese é um pressuposto de um fenômeno físico que não precisa de experiência para ser comprovada visto que é completa. Já a teoria, precisa ser comprovada várias vezes uma vez que é apenas uma teoria.
+@Teoria e hipótese não têm como serem comprovadas, a “Lei” é que pode explicar com precisão os fenômenos. 
+%Quando um feixe de luz branca incide sobre um prisma, um fenômeno muito conhecido acontece:
+@Como a luz branca é formada por várias cores, as mesmas aparecem do outro lado do prisma.
+@Somente os raios de luz com frequência mais alta serão transmitidos o prisma. 
+@Somente os raios de luz com frequência mais baixa serão transmitidos pelo prisma.
+@A luz branca não consegue atravessar o prisma.
+%Quando Einstein estruturou a teoria da relatividade, uma experiência muito importante foi realizada durante o eclipse. Onde foi realizada essa observação?
+@Sobral, no ceará.
 @Em todo Egito.
 @Boston, USA
-@Sidney, Austr�lia
-%Qual foi a previs�o te�rica da teoria da relatividade de Einstein? 
-@Os raios luminosos das estrelas que se encontravam pr�ximos do Sol deviam desviar-se ligeiramente devido ao campo gravitacional do corpo celeste. 
-@Os raios luminosos das estrelas deveriam chegar ao sol e se absorvido pelo pr�prio devido sua forte gravidade.
-@De que eventos simult�neos em um mesmo referencial permanecem simult�neos em referenciais diferentes.
-@De que ondas gravitacionais s�o inconsistentes com a teoria por ele proposta.
-%Assinale a seguir o nome do cientista e, respectivamente, sua experi�ncia que comprova a presen�a de um n�cleo e uma eletrosfera �vazia�:
-@Ernest Rutherford, experimento de Geiger�Marsden.
-@Niels Bohr, modelo at�mico sistema planet�rio.
+@Sidney, Austrália
+%Qual foi a previsão teórica da teoria da relatividade de Einstein? 
+@Os raios luminosos das estrelas que se encontravam próximos do Sol deviam desviar-se ligeiramente devido ao campo gravitacional do corpo celeste. 
+@Os raios luminosos das estrelas deveriam chegar ao sol e se absorvido pelo próprio devido à sua forte gravidade.
+@De que eventos simultâneos em um mesmo referencial permanecem simultâneos em referenciais diferentes.
+@De que ondas gravitacionais são inconsistentes com a teoria por ele proposta.
+%Assinale a seguir o nome do cientista e, respectivamente, sua experiência que comprova a presença de um núcleo e uma eletrosfera “vazia”:
+@Ernest Rutherford, experimento de Geiger–Marsden.
+@Niels Bohr, modelo atômico sistema planetário.
 @John Dalton, bola de bilhar.
-@Joseph John Thomson, tubos de raios cat�dicos.
-%Por que as folhas s�o verdes?
+@Joseph John Thomson, tubos de raios catódicos.
+%Por que as folhas são verdes?
 @Devido a clorofila, um pigmento natural capaz de absorver todos os comprimentos de onda e emitir a cor verde.
 @Devido aos minerais que emitem a cor esverdeada.
-@Devido a radia��o proveniente do Sol.
-@Devido a estrutura celular das folhas.
-%Por que o c�u � azul? 
-@Gra�as a dispers�o da luz branca na atmosfera. 
-@Devido a luz monocrom�tica emitida pelo Sol.
-@Porque o mar � azul, com isso o c�u reflete o mar.
-@Por causa das mol�culas presentes na atmosfera.
-%Por que o p�r do Sol � amarelo/alaranjado?
-@Como a luz branca do Sol precisa percorrer um caminho maior at� chegar aos nossos olhos, grande parte da luz azul j� foi dispersada, restando a luz pr�xima da colora��o amarelo/alaranjado.
-@Gra�as �s mol�culas presentes na atmosfera, percebe-se uma colora��o avermelhada do c�u no entardecer.
-@Visto que o Sol � dessa mesma colora��o, percebesse melhor tal semelhan�a no p�r do Sol quando o mesmo se afasta do nosso campo de vis�o.
-%Qual � o argumento f�sico que explica o as miragens? 
-@Refra��o
-@Radia��o
-@Conserva��o da energia �ptica
+@Devido a radiação proveniente do Sol.
+@Devido a estrutura celular das folhas. 
+%Por que o céu é azul? 
+@Graças a dispersão da luz branca na atmosfera. 
+@Devido a luz monocromática emitida pelo Sol.
+@Porque o mar é azul, com isso o céu reflete o mar.
+@Por causa das moléculas presentes na atmosfera. 
+%Por que o pôr do Sol é amarelo/alaranjado? 
+@Como a luz branca do Sol precisa percorrer um caminho maior até chegar aos nossos olhos, grande parte da luz azul já foi dispersada, restando a luz próxima da coloração amarelo/alaranjado.
+@Graças às moléculas presentes na atmosfera, percebe-se uma coloração avermelhada do céu no entardecer.
+@Visto que o Sol é dessa mesma coloração, percebesse melhor tal semelhança no pôr do Sol quando o mesmo se afasta do nosso campo de visão.
+@Porque nesta situação a luz do Sol percorre uma distância menor na atmosfera do que quando está a pino.
+%Qual é o argumento físico que explica as miragens? 
+@Refração
+@Radiação
+@Conservação da energia óptica
 @Atrito
 %Por que enxergamos? 
-@Conseguimos enxergar porque os objetos emitem ou refletem a luz, est� que chega aos nossos olhos e que � processado pelo c�rebro. 
-@O sentido da vis�o � poss�vel visto que nossos olhos conseguem captar a luz de corpos que absorvem todo o espectro de luz.
-@Porque o olho humano emite luz e toda a luz que retorna � processada pelo c�rebro, como um radar.
-@Somente com os nossos olhos, o c�rebro n�o tem fun��o alguma no sentido da vis�o.
-%Quais das situa��es abaixo n�o � poss�vel observar o fen�meno de miragem? 
+@Conseguimos enxergar porque os objetos emitem ou refletem a luz, que chega aos nossos olhos e que é processada pelo cérebro. 
+@ O sentido da visão é possível visto que nossos olhos conseguem captar a luz de corpos que absorvem todo o espectro de luz.
+@ Porque o olho humano emite luz e toda a luz que retorna é processada pelo cérebro, como um radar.
+@ Somente com os nossos olhos, o cérebro não tem função alguma no sentido da visão. 
+%Quais das situações abaixo não é possível observar o fenômeno de miragem? 
+@Um carro descendo uma rampa. 
+@Ao observar um objeto a longas distâncias no deserto.
+@Em navios ou objetos distantes nas regiões polares ou com água muito fria
 @Na rodovia em um dia calor de intenso.
-@Ao observar um objeto a longas dist�ncias no deserto.
-@Em navios ou objetos distantes nas regi�es polares ou com �gua muito fria
-@Um carro descendo uma rampa.
+%Porque nossas mãos esquentam quando as esfregamos? 
+@Devido a fricção entre as nossas mãos.
+@Pois estamos aumentando a transferência de calor entre as mãos.
+@Somente devido ao aumento dos batimentos cardíacos.  
+@Porque a pele é uma camada perfeitamente lisa que escorrega, facilitando o aquecimento.
+%Por que uma caneta parece estar quebrada quando colocada dentro de um copo com água? 
+@Por causa da diferença da velocidade da luz na água e no ar.
+@Devido a inclinação da caneta dentro do copo, ela aparenta estar quebrada.
+@Porque os raios luminosos da parte de baixo da caneta não chegam aos nossos olhos, aparentando que a caneta está quebrada.
+@Porque os raios luminosos da parte de cima da caneta não chegam aos nossos olhos, aparentando que a caneta está quebrada.
+%Como o avião voa? 
+@A turbina ou hélice empurra o ar para baixo e, consequentemente, o avião para cima.
+@Pela diferença de pressão entre as partes de cima e de baixo das asas do avião, quando estas estão em determinadas configurações.
+@Por causa do atrito entre as asas do avião e as moléculas do ar.
+@Por causa da diferença de pressão entre a cabine e o ar no exterior do avião.
+%Por que um bola não consegue completar o looping quando é colocada na mesma altura do diâmetro do looping? 
+@A energia é transformada em outras formas de energia.
+@Matematicamente, a altura não é suficiente para se completar o looping.
+@O atrito é a única razão que impede a bola de completar a curva.
+@A esfera precisaria ser mais leve para conseguir alcançar uma velocidade maior e completar o looping.
+%Desprezando-se a resistência do ar, soltasse dois objetos, uma folha de papel e um livro, a uma mesma altura. Qual corpo chegará primeiro? 
+@Os dois chegarão juntos
+@O livro
+@A folha de papel
+@Nenhum dos objetos irá cair visto que não há força puxando os objetos.
+%Qual das máquinas térmicas abaixo não segue o fluxo natural de transferência de calor:
+@Geladeira 
+@Carro
+@Locomotivas
+@Reator termonuclear
+%Uma partícula está em movimento. Entre as possibilidades abaixo, indique aquela que está errada, sabendo que v é a velocidade e aé a aceleração:
+@v=0, a=0;
+@v0, a0;
+@v=0, a0.
+@v0, a=0;
+%Imagine um relógio de pulso de quartzo e um relógio de parede com pêndulo viajando para a Lua em um foguete. Na fase da viagem em que os motores são desligados e o foguete está em “queda” em direção à Lua e na fase depois da aterrissagem na Lua qual afirmação está correta:
+@o relógio de pulso funciona bem nos dois casos, mas o de pêndulo não funciona nas duas situações;
+@Os dois relógios funcionam bem no foguete e na Lua
+@os dois relógios funcionam bem no foguete, mas na Lua só funciona bem o de pulso;
+@os dois relógios não funcionam bem nem no foguete, nem na Lua.
+%Uma atração de feira, chamada rotor, consiste de um cilindro de cerca de 3m de raio no qual as pessoas se encostam nas paredes. O cilindro começa a girar e o chão desce vários metros. As pessoas ficam presas na parede. O que as segura:
+@a força de atrito;
+@a resistência do ar;
+@a força centrífuga;
+@a força peso.
+%Se o raio do rotor for aumentado, a velocidade angular deverá ser:
+@menor;
+@maior;
+@igual;
+@muito maior.
+%Uma pessoa sobe numa balança colocada num elevador e observa um aumento do seu peso. Qual a situação verdadeira:
+@O elevador sobe com aceleração constante;
+@o elevador desce com velocidade constante;
+@o elevador sobe com velocidade constante;
+@o elevador desce com aceleração constante.
+%O princípio da inércia permite afirmar que:
+@qualquer variação de velocidade exige a ação de uma força;
+@Nenhuma força atua sobre o corpo se a energia cinética do mesmo permanece constante;
+@um corpo para caso a força exercida sobre ele cesse e se mantenha nula;
+@Um corpo não pode movimentar-se sem que uma força atue sobre ele.
+%Suponha uma viagem num foguete de ferro com um mecanismo que consegue lançar um poderoso imã para o alto na direção da Lua. O foguete parte do repouso em relação à Terra de uma altura razoável. Qual seria a afirmação correta:
+@Ele não sai do lugar;
+@Não consegue porque viola a segunda lei da termodinâmica;
+@O astronauta consegue chegar à Lua;
+@Ele não consegue porque a primeira lei da termodinâmica é violada.
+%Os jogos olímpicos de 2068 serão realizados na Lua, num estádio em que se conseguiu reproduzir a atmosfera da Terra. Qual a prova em que não haveria grandes modificações nos resultados:
+@100m nado livre;
+@salto em altura;
+@salto em distância;
+@lançamento de disco.
+%Em uma experiência sobre o efeito fotoelétrico diminuiu-se o comprimento de onda da luz incidente sobre uma superfície metálica. Nessa situação, a energia cinética dos elétrons emitidos pela superfície:
+@aumenta;
+@diminui; 
+@permanece a mesma;
+@vai à zero.
+%Um paraquedista salta de uma grande altura e pode descer em queda livre por vários minutos. Qual a afirmação correta sobre o período em que está em queda livre:
+@não sente a ausência da gravidade porque a resistência do ar o leva a atingir rapidamente a velocidade limite;
+@experimenta as mesmas sensações de um astronauta na ausência de gravidade;
+@demora um certo tempo até atingir a situação de ausência de gravidade;
+@nenhuma das afirmações acima é verdadeira.
+%Qual das afirmações a seguir é a correta:
+@Força normal é diferente do peso, mas ambos podem ter a mesma intensidade em alguns casos;
+@Força normal é a mesma coisa que o peso;
+@São diferentes, mas sempre possuem a mesma intensidade;
+@São diferentes, mas os dois formam um par ação-reação de acordo com a terceira lei de Newton.
+%Como podemos explicar porque um canudo dentro de um copo com água parece quebrado:
+@ocorre porque a velocidade da luz na água é menor que no ar;
+@o fenômeno é observado devido à alteração da frequência da luz quando troca de meio;
+@ocorre porque a velocidade da luz na água é maior que no ar;
+@todas as afirmações acima estão erradas.
+%No movimento da Terra em torno do Sol quais as forças atuando sobre a Terra que fazem com que ela se mantenha em órbita:
+@apenas a força gravitacional;
+@força gravitacional e força centrípeta;
+@força gravitacional e força centrífuga;
+@apenas a força centrífuga.
+%Por que, num país frio, a água de um lago congela antes na superfície e nunca congela totalmente a parte abaixo da superfície durante o inverno?
+@porque o coeficiente de dilatação da água se comporta de forma anômala; o volume da água diminui até 4ºC e a medida que a temperatura cai até 0ºC, o volume passa a aumentar;
+@porque o frio faz com que a água sofra contração a medida que a temperatura diminui;
+@porque o coeficiente de dilatação da água é muito baixo;
+@porque o coeficiente de dilatação da água é muito alto.
+%Durante uma tempestade com raios qual é a atitude mais segura:
+@permanecer dentro do carro;
+@sair do carro e correr para baixo de uma árvore;
+@sair do carro e simplesmente correr;
+@rezar.
+%Por que uma patinadora no gelo, ao girar o corpo repetidas vezes com alta velocidade, encolhe os braços?
+@para diminuir o momento de inércia e aumentar a velocidade angular;
+@para manter o equilíbrio;
+@por estética;
+@para diminuir a resistência do ar.
+%Um pêndulo simples é constituído por uma pequena esfera presa a um fio inextensível de massa desprezível. Supondo que a massa seja colocada para oscilar usando ângulos pequenos, como o período do pêndulo fica afetado quando trocamos a esfera por outra de mesmo raio e massa maior:
+@o período fica igual;
+@o período aumenta;
+@o período diminui;
+@o período passa a depender do ângulo, mesmo que este seja pequeno.
+%Considere a lata de bebida que gela sozinha. A propaganda diz que a lata gela 15 segundos após ser aberta. O processo de resfriamento é:
+@possível devido à expansão rápida do gás carbônico contido à alta pressão na lata;
+@impossível, pois viola a primeira lei da termodinâmica;
+@impossível, pois viola a segunda lei da termodinâmica;
+@possível devido à expansão do gás carbônico contido à alta temperatura na lata.
+%Ao se lançar um objeto no ar, próximo à superfície da Terra, a força gravitacional é:
+@Para baixo em todo o movimento.
+@Para cima quando o corpo sobe e para baixo quando ele desce.
+@Para cima em todo o movimento.
+@Para cima quando o corpo sobe, zero na altura máxima e para baixo quando ele desce.
+%Um dos argumentos usados para "demonstrar" a existência de um ser sobrenatural responsável pelo "design inteligente" faz uso da Segunda Lei da Termodinâmica. Este argumento diz que a vida na Terra não poderia ter sido criada sem este ser sobrenatural pois a criação de vida faz com que a entropia diminua e esta sempre aumenta, segundo a segunda lei citada acima. 
+@a argumentação está errada, porque a lei da Termodinâmica que trata da entropia é a primeira lei.
+@a argumentação está certa e mostra que a Teoria da Evolução está errada.
+@a argumentação não é correta porque a Segunda Lei da termodinâmica só se aplica a sistemas fechados e a Terra interage com sua vizinhança.
+@a Segunda Lei da termodinâmica não se aplica a processos biológicos.
+
+%Sobre as forças centrípeta e centrífuga, pode-se dizer que:
+@Elas estão sempre presentes e se cancelam, porque um corpo em movimento circular está em equilíbrio.
+@A força centrípeta é a força radial presente em qualquer movimento circular.
+@A força centrífuga é a reação à força centrípeta.
+@A força centrífuga está sempre presente quando analisamos o sistema físico de um referencial inercial.
+%Ao tocar uma guitarra, o músico propaga ondas nas cordas do instrumento e no ar. Contrapondo estas duas ondas, qual é a grandeza física semelhante entre elas?
+@Frequência
+@Velocidade de Propagação
+@Amplitude
+@Tempo de Propagação
+%Porque é preciso fazer dois furos na caixa de leite para fazer o mesmo sair lentamente pelo buraco?
+@Para que a pressão dentro da caixa se iguale com a pressão atmosférica fora da caixa.
+@Para que a pressão atmosférica fiquei próxima da pressão interna a da caixa.
+@Para que o volume de leite possa expandir.
+@Os dois furos não proporcionam um bom resultado ao manusear a caixa.
+%Em um plano horizontal sem atrito, um corpo se movimenta devido a aplicação de uma força constante. Se essa força for interrompida, o que acontece com o corpo?
+@O corpo se move com velocidade constante.
+@O corpo se movimenta com aceleração crescente.
+@O corpo interrompe seu movimento assim que a força para sua atuação.
+@O corpo se movimenta com velocidade crescente.
+%Porque o fogo de uma vela sempre aponta para cima mesmo que a vela esteja inclinada para baixo?
+@Pois a corrente de ar criada ao redor do fogo o empurra para cima devido a diferença de pressão.
+@Devido a combustão da parafina.
+@Devido a posição do barbante na vela.
+@Pois o fogo tem uma densidade menor que o ar.
+%Por que em uma tempestade de raios, é recomendado que as pessoas se abriguem dentro de carros? 
+@Pois o material externo do carro é formado por uma material condutor que conduz a descarga elétrica em seu exterior, sem atingir os passageiros.
+@Porque os pneus do carro são feitos de um material isolante que impede a descarga elétrica.
+@Porque os carros atuais tem um mini para-raio na parte superior, impedindo a descarga elétrica ao redor dele.
+@Pois o estofamento do carro, onde a pessoa senta, é formado por um material isolante. Portanto a descarga passa por dentro do carro, mas não chega até o passageiro.
+%Segundo a Terceira Lei de Newton, devido a atuação do par de forças ação-reação entre dois corpos, podemos dizer que estas forças são iguais em alguns aspectos, exceto:
+@no sentido
+@na direção
+@na intensidade
+@no modulo
+%Em qual lei física o cinto de segurança foi baseado? 
+@Primeira Lei de Newton 
+@Princípio da Termodinâmica 
+@Segunda Lei de Newton 
+@Gravitação 
+%Um martelo e uma pena atingem o solo ao mesmo tempo no vácuo?
+@Sim, porque não há resistência do ar.
+@Não, eles não chegam ao mesmo tempo, o martelo chega antes.
+@Não, a pena chega antes devido a sua aerodinâmica.
+@Sim, porque a gravidade será diferente para cada corpo.

@@ -24,12 +24,62 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 private:
-	class Interaction* Resposta1;
-	class Interaction* Resposta2;
-	class Interaction* Resposta3;
-	class Interaction* Resposta4;
-	
 
+	FString TextAdress;
+
+	TArray<FString> MainArray;
+
+	FTimerHandle AnswerTime;
+
+	int NaHora;
+
+	int Acertos;
+
+
+
+	float Segundos;
+	
+	float TotalSec;
+
+
+
+
+	TArray<FString> ShuffleAnswers(TArray<FString> MyRespostas);
+
+	FString ConvertText(TArray<FString> Lines);
+
+	void Tempo();
+
+	void ReadText();
+
+
+public:
+	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category = "Question")
 	TArray<FString> QnA;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Question")
+	TArray<FString> Respostas;
+
+	UFUNCTION(BlueprintCallable, Category = "Shoot")
+		void ResetAndPick();
+
+	UFUNCTION(BlueprintCallable, Category = "Shoot")
+		void AddPoints();
+
+	UFUNCTION(BlueprintCallable, Category = "Shoot")
+		bool PauseGeral();
+
+	UFUNCTION(BlueprintCallable, Category = "Shoot")
+		void UnPauseGeral();
+
+	UFUNCTION(BlueprintCallable, Category = "Shoot")
+		float GetSegundos();
+
+	UFUNCTION(BlueprintCallable, Category = "Shoot")
+		int GetAcertos();
+
+	UFUNCTION(BlueprintCallable, Category = "Shoot")
+		int GetNaHora();
+
 
 };
